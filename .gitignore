@@ -1,0 +1,5 @@
+aws_resource_report.txt
+run.log
+reports/
+*.pem
+.env
